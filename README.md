@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## Contact With Me
-a target="_blank" href="https://www.linkedin.com/in/ece-yazgan/">
+<a target="_blank" href="https://www.linkedin.com/in/ece-yazgan/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=905536886043">
@@ -41,14 +41,18 @@ a target="_blank" href="https://www.linkedin.com/in/ece-yazgan/">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
+<br/>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=eceyzgn&count_private=true)
 
+<br/>
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceyzgn&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ![snake gif](https://github.com/baharkiziltas/baharkiziltas/blob/output/github-contribution-grid-snake.gif)
