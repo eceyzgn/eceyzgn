@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceyzgn&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceyzgn&hide=javascript,css,scss,html&theme=tokyonight)
 
 <br/>
 
